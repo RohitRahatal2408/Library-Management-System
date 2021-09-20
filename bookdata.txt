@@ -1,0 +1,12 @@
+101,Clean Code:Agile Software,Robert C. Martin,1
+102,Introduction to Algorithms,Thomas H. Cormen,1
+103,The Pragmatic Programmer,David Thomas,1
+104,Code Complete,Steve McConnell,1
+105,Programming Pearls,Jon Bentley,1
+106, Eloquent Ruby,Russ Olsen ,1
+107, HTML and CSS,Jon Duckett,1
+108,Effective Java, Joshua Bloch,1
+109,Eloquent JavaScript,Marijn Haverbeke,1
+110,Modern PHP,Josh Lockhart,1
+111, C# in Depth,jon skeet,1
+112,Understanding pointers,Kanetkar,1
